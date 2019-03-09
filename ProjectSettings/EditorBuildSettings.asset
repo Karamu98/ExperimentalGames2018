@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Karya/Scenes/MainMenu.unity
+    guid: 3f4821b2ff14be840a825a497685e8c2
+  - enabled: 1
+    path: Assets/Declan/Scenes/TrainStation.unity
+    guid: 1bddf8e9400862845b8a7d939a310db7
+  - enabled: 0
+    path: Assets/Karya/Scenes/RailWayScene.unity
+    guid: aa74119b7bddfb2409e0e341849561ea

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{8e2b45a9-62fb-489b-ab3b-af6c1bfe4a2d}">
+        <property name="assetPath">
+            <value>map_electricHum.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>22.0499992</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>2.9641269841269842</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{239767a7-f9c1-43c6-9a37-f31710dc4c6e}</destination>
+        </relationship>
+    </object>
+</objects>

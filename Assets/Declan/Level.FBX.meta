@@ -1,0 +1,1968 @@
+fileFormatVersion: 2
+guid: ac660996deb41cb459bb57af3759d290
+timeCreated: 1524521705
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Back Area
+    100002: Back Desk
+    100004: Back Desk Higher Platform
+    100006: 'Back Left Train Tunnel '
+    100008: Back Left Train Tunnel 001
+    100010: Back Left Train Tunnel 002
+    100012: Back Left Train Tunnel 003
+    100014: Back Left Tunnel Wall
+    100016: Back Left Tunnel Wall001
+    100018: Back Right Tunnel Wall
+    100020: Back Right Tunnel Wall001
+    100022: Backroom Floor Back
+    100024: Backroom Floor Front
+    100026: Bench T
+    100028: Bench T 009
+    100030: Bench T 010
+    100032: Bench T 011
+    100034: Bench T 012
+    100036: Bench T 013
+    100038: Bench T 014
+    100040: Bench T 2
+    100042: Bench T 3
+    100044: Bench T 4
+    100046: Bench T 5
+    100048: Bench T 6
+    100050: Bench T 7
+    100052: Bench T 8
+    100054: Box Type 003
+    100056: Box Type 004
+    100058: Box Type 005
+    100060: Box Type 006
+    100062: Box Type 007
+    100064: Box Type 008
+    100066: Box Type 009
+    100068: Box Type 010
+    100070: Box Type 011
+    100072: Box Type 012
+    100074: Box Type 013
+    100076: Box Type 014
+    100078: Box Type 015
+    100080: Box Type 016
+    100082: Box Type 017
+    100084: Box Type 018
+    100086: Box Type 019
+    100088: Box Type 020
+    100090: Box Type 021
+    100092: Box Type 022
+    100094: Box Type 023
+    100096: Box Type 024
+    100098: Box Type 025
+    100100: Box Type 1
+    100102: Box Type 2
+    100104: Box016
+    100106: Box017
+    100108: Box018
+    100110: Box019
+    100112: Box020
+    100114: Box021
+    100116: Box022
+    100118: Box023
+    100120: Bridge 003
+    100122: Bridge 004
+    100124: Bridge 005
+    100126: Bridge 2
+    100128: Centre Back Wall
+    100130: Centre Back Wall001
+    100132: Centre Back Wall002
+    100134: Centre Back Wall003
+    100136: Centre Back Wall004
+    100138: Centre Back Wall005
+    100140: Centre Back Wall006
+    100142: Centre Back Wall007
+    100144: Centre Back Wall008
+    100146: Centre Back Wall009
+    100148: Centre Back Wall010
+    100150: Centre Back Wall011
+    100152: Cylinder017
+    100154: Cylinder018
+    100156: Cylinder019
+    100158: Cylinder020
+    100160: Cylinder021
+    100162: Cylinder022
+    100164: Cylinder023
+    100166: Cylinder024
+    100168: Cylinder025
+    100170: Cylinder026
+    100172: Cylinder027
+    100174: Cylinder028
+    100176: Cylinder029
+    100178: Cylinder030
+    100180: Cylinder031
+    100182: Cylinder032
+    100184: Cylinder033
+    100186: Cylinder034
+    100188: Cylinder035
+    100190: Cylinder036
+    100192: Cylinder037
+    100194: Cylinder038
+    100196: Cylinder039
+    100198: Cylinder040
+    100200: Cylinder041
+    100202: Cylinder042
+    100204: Cylinder043
+    100206: Cylinder044
+    100208: Cylinder045
+    100210: Cylinder046
+    100212: Cylinder047
+    100214: Cylinder048
+    100216: Cylinder049
+    100218: Cylinder050
+    100220: Cylinder051
+    100222: Cylinder052
+    100224: Door Way 1
+    100226: Door Way 2
+    100228: Door Way 3
+    100230: Door Way 4
+    100232: Entrance Wall 003
+    100234: Entrance Wall 004
+    100236: Entrance Wall 005
+    100238: Entrance Wall 2
+    100240: Fence
+    100242: Fence Pole
+    100244: Fence Pole001
+    100246: Fence Pole002
+    100248: Fence Pole003
+    100250: Fence Pole004
+    100252: Fence Pole005
+    100254: Fence Pole006
+    100256: Fence Pole007
+    100258: Fence Pole008
+    100260: Fence Pole009
+    100262: Fence Pole010
+    100264: Fence Pole011
+    100266: Fence Pole012
+    100268: Fence Pole013
+    100270: Fence Pole014
+    100272: Fence Pole015
+    100274: Fence Pole016
+    100276: Fence Pole017
+    100278: Fence Pole018
+    100280: Fence Pole019
+    100282: Fence Pole020
+    100284: Fence Pole021
+    100286: Fence Pole022
+    100288: Fence Pole023
+    100290: Fence001
+    100292: Fence002
+    100294: Fence003
+    100296: Fence004
+    100298: Fence005
+    100300: Fence006
+    100302: Fence007
+    100304: Fence008
+    100306: Fence009
+    100308: Fence010
+    100310: Fence011
+    100312: Fence012
+    100314: Fence013
+    100316: Fence014
+    100318: Fence015
+    100320: Fence016
+    100322: Fence017
+    100324: Fence018
+    100326: Fence019
+    100328: Fence020
+    100330: Fence021
+    100332: Fence022
+    100334: Fence023
+    100336: Fence024
+    100338: Fence025
+    100340: Fence026
+    100342: Fence027
+    100344: Front Area
+    100346: Front Desk
+    100348: Front Desk Higher Platform
+    100350: Front Left Train
+    100352: Front Left Tunnel Wall
+    100354: Front Left Tunnel Wall001
+    100356: Front Right Train
+    100358: Front Right Tunnel Wall
+    100360: Front Right Tunnel Wall001
+    100362: Half Plank00
+    100364: Half Plank001
+    100366: Half Plank002
+    100368: Half Plank003
+    100370: Half Plank004
+    100372: Half Plank005
+    100374: Half Plank006
+    100376: Half Plank007
+    100378: Half Plank008
+    100380: Half Plank009
+    100382: Half Plank010
+    100384: Half Plank011
+    100386: Half Plank012
+    100388: Half Plank013
+    100390: Half Plank014
+    100392: Half Plank015
+    100394: Half Plank016
+    100396: Half Plank017
+    100398: Half Plank018
+    100400: Half Plank019
+    100402: Half Plank020
+    100404: Half Plank021
+    100406: Half Plank022
+    100408: Half Plank023
+    100410: Half Plank024
+    100412: Half Plank025
+    100414: Half Plank026
+    100416: Half Plank027
+    100418: Half Plank028
+    100420: Half Plank029
+    100422: Half Plank030
+    100424: Help Desk Floor
+    100426: Help Desk Roof
+    100428: //RootNode
+    100430: Pallet
+    100432: Pallet001
+    100434: Pallet002
+    100436: Pallet003
+    100438: Pallet004
+    100440: Pallet005
+    100442: Pallet006
+    100444: Pallet007
+    100446: Pallet008
+    100448: Pallet009
+    100450: Pallet010
+    100452: Pallet011
+    100454: Pallet012
+    100456: Pallet013
+    100458: Pallet014
+    100460: Pallet015
+    100462: Pallet016
+    100464: Pallet017
+    100466: Pallet018
+    100468: Pallet019
+    100470: Pallet020
+    100472: Pallet021
+    100474: Pallet022
+    100476: Pallet023
+    100478: Pallet024
+    100480: Pallet025
+    100482: Pallet026
+    100484: Pallet027
+    100486: Pallet028
+    100488: Pallet029
+    100490: Pallet030
+    100492: Plank00
+    100494: Plank001
+    100496: Plank002
+    100498: Plank003
+    100500: Plank004
+    100502: Plank005
+    100504: Plank006
+    100506: Plank007
+    100508: Plank008
+    100510: Plank009
+    100512: Plank010
+    100514: Plank011
+    100516: Plank012
+    100518: Plank013
+    100520: Plank014
+    100522: Plank015
+    100524: Plank016
+    100526: Plank017
+    100528: Plank018
+    100530: Plank019
+    100532: Plank020
+    100534: Plank021
+    100536: Plank022
+    100538: Plank023
+    100540: Plank024
+    100542: Plank025
+    100544: Plank026
+    100546: Plank027
+    100548: Plank028
+    100550: Plank029
+    100552: Plank030
+    100554: Pole008
+    100556: Pole009
+    100558: Pole010
+    100560: Pole011
+    100562: Pole012
+    100564: Pole013
+    100566: Pole014
+    100568: Pole015
+    100570: Pole024
+    100572: Pole025
+    100574: Pole026
+    100576: Pole027
+    100578: Pole028
+    100580: Pole029
+    100582: Pole030
+    100584: Pole031
+    100586: Post00
+    100588: Post001
+    100590: Post002
+    100592: Post003
+    100594: Post004
+    100596: Post005
+    100598: Post006
+    100600: Post007
+    100602: Post008
+    100604: Post009
+    100606: Post010
+    100608: Post011
+    100610: Post012
+    100612: Post013
+    100614: Post014
+    100616: Post015
+    100618: Post016
+    100620: Post017
+    100622: Post018
+    100624: Post019
+    100626: Post020
+    100628: Post021
+    100630: Post022
+    100632: Post023
+    100634: Post024
+    100636: Post025
+    100638: Post026
+    100640: Post027
+    100642: Post028
+    100644: Post029
+    100646: Post030
+    100648: Roof
+    100650: Screen Textured
+    100652: Screen Textured001
+    100654: Screen Textured002
+    100656: Screen Textured003
+    100658: Screen Textured004
+    100660: Screen Textured005
+    100662: Screen Textured006
+    100664: Screen Textured007
+    100666: Screen Textured008
+    100668: Screen Textured009
+    100670: Screen Textured010
+    100672: Screen Textured011
+    100674: Screen Textured012
+    100676: Screen Textured013
+    100678: Screen Textured014
+    100680: Screen Textured015
+    100682: Second Floor
+    100684: Sign
+    100686: Sign 2
+    100688: Sign Stand 1
+    100690: Sign Stand 2
+    100692: Sign Stand 3
+    100694: Sign Stand 4
+    100696: Station Floor
+    100698: Terminal Wall014
+    100700: Terminal Wall015
+    100702: Terminal Wall016
+    100704: Terminal Wall017
+    100706: Terminal Wall018
+    100708: Terminal Wall019
+    100710: Terminal Wall02
+    100712: Terminal Wall020
+    100714: Terminal Wall021
+    100716: Terminal Wall03
+    100718: Terminal Wall04
+    100720: Terminal Wall05
+    100722: Terminal Wall10
+    100724: Terminal Wall11
+    100726: Terminal Wall12
+    100728: Terminal Wall13
+    100730: Third Floor
+    100732: Train Rail Way Floor
+    100734: Train Rail Way Floor 2
+    100736: Train T
+    100738: Train T001
+    100740: Train001
+    100742: Train002
+    100744: VendingMachine009
+    100746: VendingMachine010
+    100748: VendingMachine011
+    100750: VendingMachine012
+    100752: VendingMachine013
+    100754: VendingMachine014
+    100756: VendingMachine015
+    100758: VendingMachine016
+    100760: VendingMachine017
+    100762: VendingMachine018
+    100764: VendingMachine019
+    100766: VendingMachine020
+    100768: VendingMachine021
+    100770: VendingMachine022
+    100772: VendingMachine023
+    100774: VendingMachine024
+    100776: VendingMachine025
+    100778: VendingMachine026
+    400000: Back Area
+    400002: Back Desk
+    400004: Back Desk Higher Platform
+    400006: 'Back Left Train Tunnel '
+    400008: Back Left Train Tunnel 001
+    400010: Back Left Train Tunnel 002
+    400012: Back Left Train Tunnel 003
+    400014: Back Left Tunnel Wall
+    400016: Back Left Tunnel Wall001
+    400018: Back Right Tunnel Wall
+    400020: Back Right Tunnel Wall001
+    400022: Backroom Floor Back
+    400024: Backroom Floor Front
+    400026: Bench T
+    400028: Bench T 009
+    400030: Bench T 010
+    400032: Bench T 011
+    400034: Bench T 012
+    400036: Bench T 013
+    400038: Bench T 014
+    400040: Bench T 2
+    400042: Bench T 3
+    400044: Bench T 4
+    400046: Bench T 5
+    400048: Bench T 6
+    400050: Bench T 7
+    400052: Bench T 8
+    400054: Box Type 003
+    400056: Box Type 004
+    400058: Box Type 005
+    400060: Box Type 006
+    400062: Box Type 007
+    400064: Box Type 008
+    400066: Box Type 009
+    400068: Box Type 010
+    400070: Box Type 011
+    400072: Box Type 012
+    400074: Box Type 013
+    400076: Box Type 014
+    400078: Box Type 015
+    400080: Box Type 016
+    400082: Box Type 017
+    400084: Box Type 018
+    400086: Box Type 019
+    400088: Box Type 020
+    400090: Box Type 021
+    400092: Box Type 022
+    400094: Box Type 023
+    400096: Box Type 024
+    400098: Box Type 025
+    400100: Box Type 1
+    400102: Box Type 2
+    400104: Box016
+    400106: Box017
+    400108: Box018
+    400110: Box019
+    400112: Box020
+    400114: Box021
+    400116: Box022
+    400118: Box023
+    400120: Bridge 003
+    400122: Bridge 004
+    400124: Bridge 005
+    400126: Bridge 2
+    400128: Centre Back Wall
+    400130: Centre Back Wall001
+    400132: Centre Back Wall002
+    400134: Centre Back Wall003
+    400136: Centre Back Wall004
+    400138: Centre Back Wall005
+    400140: Centre Back Wall006
+    400142: Centre Back Wall007
+    400144: Centre Back Wall008
+    400146: Centre Back Wall009
+    400148: Centre Back Wall010
+    400150: Centre Back Wall011
+    400152: Cylinder017
+    400154: Cylinder018
+    400156: Cylinder019
+    400158: Cylinder020
+    400160: Cylinder021
+    400162: Cylinder022
+    400164: Cylinder023
+    400166: Cylinder024
+    400168: Cylinder025
+    400170: Cylinder026
+    400172: Cylinder027
+    400174: Cylinder028
+    400176: Cylinder029
+    400178: Cylinder030
+    400180: Cylinder031
+    400182: Cylinder032
+    400184: Cylinder033
+    400186: Cylinder034
+    400188: Cylinder035
+    400190: Cylinder036
+    400192: Cylinder037
+    400194: Cylinder038
+    400196: Cylinder039
+    400198: Cylinder040
+    400200: Cylinder041
+    400202: Cylinder042
+    400204: Cylinder043
+    400206: Cylinder044
+    400208: Cylinder045
+    400210: Cylinder046
+    400212: Cylinder047
+    400214: Cylinder048
+    400216: Cylinder049
+    400218: Cylinder050
+    400220: Cylinder051
+    400222: Cylinder052
+    400224: Door Way 1
+    400226: Door Way 2
+    400228: Door Way 3
+    400230: Door Way 4
+    400232: Entrance Wall 003
+    400234: Entrance Wall 004
+    400236: Entrance Wall 005
+    400238: Entrance Wall 2
+    400240: Fence
+    400242: Fence Pole
+    400244: Fence Pole001
+    400246: Fence Pole002
+    400248: Fence Pole003
+    400250: Fence Pole004
+    400252: Fence Pole005
+    400254: Fence Pole006
+    400256: Fence Pole007
+    400258: Fence Pole008
+    400260: Fence Pole009
+    400262: Fence Pole010
+    400264: Fence Pole011
+    400266: Fence Pole012
+    400268: Fence Pole013
+    400270: Fence Pole014
+    400272: Fence Pole015
+    400274: Fence Pole016
+    400276: Fence Pole017
+    400278: Fence Pole018
+    400280: Fence Pole019
+    400282: Fence Pole020
+    400284: Fence Pole021
+    400286: Fence Pole022
+    400288: Fence Pole023
+    400290: Fence001
+    400292: Fence002
+    400294: Fence003
+    400296: Fence004
+    400298: Fence005
+    400300: Fence006
+    400302: Fence007
+    400304: Fence008
+    400306: Fence009
+    400308: Fence010
+    400310: Fence011
+    400312: Fence012
+    400314: Fence013
+    400316: Fence014
+    400318: Fence015
+    400320: Fence016
+    400322: Fence017
+    400324: Fence018
+    400326: Fence019
+    400328: Fence020
+    400330: Fence021
+    400332: Fence022
+    400334: Fence023
+    400336: Fence024
+    400338: Fence025
+    400340: Fence026
+    400342: Fence027
+    400344: Front Area
+    400346: Front Desk
+    400348: Front Desk Higher Platform
+    400350: Front Left Train
+    400352: Front Left Tunnel Wall
+    400354: Front Left Tunnel Wall001
+    400356: Front Right Train
+    400358: Front Right Tunnel Wall
+    400360: Front Right Tunnel Wall001
+    400362: Half Plank00
+    400364: Half Plank001
+    400366: Half Plank002
+    400368: Half Plank003
+    400370: Half Plank004
+    400372: Half Plank005
+    400374: Half Plank006
+    400376: Half Plank007
+    400378: Half Plank008
+    400380: Half Plank009
+    400382: Half Plank010
+    400384: Half Plank011
+    400386: Half Plank012
+    400388: Half Plank013
+    400390: Half Plank014
+    400392: Half Plank015
+    400394: Half Plank016
+    400396: Half Plank017
+    400398: Half Plank018
+    400400: Half Plank019
+    400402: Half Plank020
+    400404: Half Plank021
+    400406: Half Plank022
+    400408: Half Plank023
+    400410: Half Plank024
+    400412: Half Plank025
+    400414: Half Plank026
+    400416: Half Plank027
+    400418: Half Plank028
+    400420: Half Plank029
+    400422: Half Plank030
+    400424: Help Desk Floor
+    400426: Help Desk Roof
+    400428: //RootNode
+    400430: Pallet
+    400432: Pallet001
+    400434: Pallet002
+    400436: Pallet003
+    400438: Pallet004
+    400440: Pallet005
+    400442: Pallet006
+    400444: Pallet007
+    400446: Pallet008
+    400448: Pallet009
+    400450: Pallet010
+    400452: Pallet011
+    400454: Pallet012
+    400456: Pallet013
+    400458: Pallet014
+    400460: Pallet015
+    400462: Pallet016
+    400464: Pallet017
+    400466: Pallet018
+    400468: Pallet019
+    400470: Pallet020
+    400472: Pallet021
+    400474: Pallet022
+    400476: Pallet023
+    400478: Pallet024
+    400480: Pallet025
+    400482: Pallet026
+    400484: Pallet027
+    400486: Pallet028
+    400488: Pallet029
+    400490: Pallet030
+    400492: Plank00
+    400494: Plank001
+    400496: Plank002
+    400498: Plank003
+    400500: Plank004
+    400502: Plank005
+    400504: Plank006
+    400506: Plank007
+    400508: Plank008
+    400510: Plank009
+    400512: Plank010
+    400514: Plank011
+    400516: Plank012
+    400518: Plank013
+    400520: Plank014
+    400522: Plank015
+    400524: Plank016
+    400526: Plank017
+    400528: Plank018
+    400530: Plank019
+    400532: Plank020
+    400534: Plank021
+    400536: Plank022
+    400538: Plank023
+    400540: Plank024
+    400542: Plank025
+    400544: Plank026
+    400546: Plank027
+    400548: Plank028
+    400550: Plank029
+    400552: Plank030
+    400554: Pole008
+    400556: Pole009
+    400558: Pole010
+    400560: Pole011
+    400562: Pole012
+    400564: Pole013
+    400566: Pole014
+    400568: Pole015
+    400570: Pole024
+    400572: Pole025
+    400574: Pole026
+    400576: Pole027
+    400578: Pole028
+    400580: Pole029
+    400582: Pole030
+    400584: Pole031
+    400586: Post00
+    400588: Post001
+    400590: Post002
+    400592: Post003
+    400594: Post004
+    400596: Post005
+    400598: Post006
+    400600: Post007
+    400602: Post008
+    400604: Post009
+    400606: Post010
+    400608: Post011
+    400610: Post012
+    400612: Post013
+    400614: Post014
+    400616: Post015
+    400618: Post016
+    400620: Post017
+    400622: Post018
+    400624: Post019
+    400626: Post020
+    400628: Post021
+    400630: Post022
+    400632: Post023
+    400634: Post024
+    400636: Post025
+    400638: Post026
+    400640: Post027
+    400642: Post028
+    400644: Post029
+    400646: Post030
+    400648: Roof
+    400650: Screen Textured
+    400652: Screen Textured001
+    400654: Screen Textured002
+    400656: Screen Textured003
+    400658: Screen Textured004
+    400660: Screen Textured005
+    400662: Screen Textured006
+    400664: Screen Textured007
+    400666: Screen Textured008
+    400668: Screen Textured009
+    400670: Screen Textured010
+    400672: Screen Textured011
+    400674: Screen Textured012
+    400676: Screen Textured013
+    400678: Screen Textured014
+    400680: Screen Textured015
+    400682: Second Floor
+    400684: Sign
+    400686: Sign 2
+    400688: Sign Stand 1
+    400690: Sign Stand 2
+    400692: Sign Stand 3
+    400694: Sign Stand 4
+    400696: Station Floor
+    400698: Terminal Wall014
+    400700: Terminal Wall015
+    400702: Terminal Wall016
+    400704: Terminal Wall017
+    400706: Terminal Wall018
+    400708: Terminal Wall019
+    400710: Terminal Wall02
+    400712: Terminal Wall020
+    400714: Terminal Wall021
+    400716: Terminal Wall03
+    400718: Terminal Wall04
+    400720: Terminal Wall05
+    400722: Terminal Wall10
+    400724: Terminal Wall11
+    400726: Terminal Wall12
+    400728: Terminal Wall13
+    400730: Third Floor
+    400732: Train Rail Way Floor
+    400734: Train Rail Way Floor 2
+    400736: Train T
+    400738: Train T001
+    400740: Train001
+    400742: Train002
+    400744: VendingMachine009
+    400746: VendingMachine010
+    400748: VendingMachine011
+    400750: VendingMachine012
+    400752: VendingMachine013
+    400754: VendingMachine014
+    400756: VendingMachine015
+    400758: VendingMachine016
+    400760: VendingMachine017
+    400762: VendingMachine018
+    400764: VendingMachine019
+    400766: VendingMachine020
+    400768: VendingMachine021
+    400770: VendingMachine022
+    400772: VendingMachine023
+    400774: VendingMachine024
+    400776: VendingMachine025
+    400778: VendingMachine026
+    2100000: Station Floor
+    2100002: Bridge
+    2100004: Brick Wall
+    2100006: Back room floor
+    2100008: Entrance Archway
+    2100010: Train Tracks
+    2100012: Archway
+    2100014: Tunnel
+    2100016: 01 - Default
+    2100018: 'Material #2'
+    2100020: 'Material #3'
+    2100022: 'Material #4'
+    2100024: BenchPlain2
+    2100026: BenchPlain
+    2100028: BenchGraffiti2
+    2100030: Bench
+    2100032: BenchFall
+    2100034: Metal
+    2100036: No Name
+    2100038: 02 - Default
+    2100040: Tunnel Wall
+    2100042: Terminal 1
+    2100044: Terminal 2
+    2100046: Terminal 3
+    2100048: Front and Back Desk Building
+    2100050: Second Floor
+    2100052: Floor
+    2100054: MetalDesk
+    2100056: Desk Lower Platform
+    2100058: Sign
+    2100060: Sign 2
+    2100062: 'Material #31'
+    2300000: Back Area
+    2300002: Back Desk
+    2300004: Back Desk Higher Platform
+    2300006: 'Back Left Train Tunnel '
+    2300008: Back Left Train Tunnel 001
+    2300010: Back Left Train Tunnel 002
+    2300012: Back Left Train Tunnel 003
+    2300014: Back Left Tunnel Wall
+    2300016: Back Left Tunnel Wall001
+    2300018: Back Right Tunnel Wall
+    2300020: Back Right Tunnel Wall001
+    2300022: Backroom Floor Back
+    2300024: Backroom Floor Front
+    2300026: Bench T
+    2300028: Bench T 009
+    2300030: Bench T 010
+    2300032: Bench T 011
+    2300034: Bench T 012
+    2300036: Bench T 013
+    2300038: Bench T 014
+    2300040: Bench T 2
+    2300042: Bench T 3
+    2300044: Bench T 4
+    2300046: Bench T 5
+    2300048: Bench T 6
+    2300050: Bench T 7
+    2300052: Bench T 8
+    2300054: Box Type 003
+    2300056: Box Type 004
+    2300058: Box Type 005
+    2300060: Box Type 006
+    2300062: Box Type 007
+    2300064: Box Type 008
+    2300066: Box Type 009
+    2300068: Box Type 010
+    2300070: Box Type 011
+    2300072: Box Type 012
+    2300074: Box Type 013
+    2300076: Box Type 014
+    2300078: Box Type 015
+    2300080: Box Type 016
+    2300082: Box Type 017
+    2300084: Box Type 018
+    2300086: Box Type 019
+    2300088: Box Type 020
+    2300090: Box Type 021
+    2300092: Box Type 022
+    2300094: Box Type 023
+    2300096: Box Type 024
+    2300098: Box Type 025
+    2300100: Box Type 1
+    2300102: Box Type 2
+    2300104: Box016
+    2300106: Box017
+    2300108: Box018
+    2300110: Box019
+    2300112: Box020
+    2300114: Box021
+    2300116: Box022
+    2300118: Box023
+    2300120: Bridge 003
+    2300122: Bridge 004
+    2300124: Bridge 005
+    2300126: Bridge 2
+    2300128: Centre Back Wall
+    2300130: Centre Back Wall001
+    2300132: Centre Back Wall002
+    2300134: Centre Back Wall003
+    2300136: Centre Back Wall004
+    2300138: Centre Back Wall005
+    2300140: Centre Back Wall006
+    2300142: Centre Back Wall007
+    2300144: Centre Back Wall008
+    2300146: Centre Back Wall009
+    2300148: Centre Back Wall010
+    2300150: Centre Back Wall011
+    2300152: Cylinder017
+    2300154: Cylinder018
+    2300156: Cylinder019
+    2300158: Cylinder020
+    2300160: Cylinder021
+    2300162: Cylinder022
+    2300164: Cylinder023
+    2300166: Cylinder024
+    2300168: Cylinder025
+    2300170: Cylinder026
+    2300172: Cylinder027
+    2300174: Cylinder028
+    2300176: Cylinder029
+    2300178: Cylinder030
+    2300180: Cylinder031
+    2300182: Cylinder032
+    2300184: Cylinder033
+    2300186: Cylinder034
+    2300188: Cylinder035
+    2300190: Cylinder036
+    2300192: Cylinder037
+    2300194: Cylinder038
+    2300196: Cylinder039
+    2300198: Cylinder040
+    2300200: Cylinder041
+    2300202: Cylinder042
+    2300204: Cylinder043
+    2300206: Cylinder044
+    2300208: Cylinder045
+    2300210: Cylinder046
+    2300212: Cylinder047
+    2300214: Cylinder048
+    2300216: Cylinder049
+    2300218: Cylinder050
+    2300220: Cylinder051
+    2300222: Cylinder052
+    2300224: Door Way 1
+    2300226: Door Way 2
+    2300228: Door Way 3
+    2300230: Door Way 4
+    2300232: Entrance Wall 003
+    2300234: Entrance Wall 004
+    2300236: Entrance Wall 005
+    2300238: Entrance Wall 2
+    2300240: Fence
+    2300242: Fence Pole
+    2300244: Fence Pole001
+    2300246: Fence Pole002
+    2300248: Fence Pole003
+    2300250: Fence Pole004
+    2300252: Fence Pole005
+    2300254: Fence Pole006
+    2300256: Fence Pole007
+    2300258: Fence Pole008
+    2300260: Fence Pole009
+    2300262: Fence Pole010
+    2300264: Fence Pole011
+    2300266: Fence Pole012
+    2300268: Fence Pole013
+    2300270: Fence Pole014
+    2300272: Fence Pole015
+    2300274: Fence Pole016
+    2300276: Fence Pole017
+    2300278: Fence Pole018
+    2300280: Fence Pole019
+    2300282: Fence Pole020
+    2300284: Fence Pole021
+    2300286: Fence Pole022
+    2300288: Fence Pole023
+    2300290: Fence001
+    2300292: Fence002
+    2300294: Fence003
+    2300296: Fence004
+    2300298: Fence005
+    2300300: Fence006
+    2300302: Fence007
+    2300304: Fence008
+    2300306: Fence009
+    2300308: Fence010
+    2300310: Fence011
+    2300312: Fence012
+    2300314: Fence013
+    2300316: Fence014
+    2300318: Fence015
+    2300320: Fence016
+    2300322: Fence017
+    2300324: Fence018
+    2300326: Fence019
+    2300328: Fence020
+    2300330: Fence021
+    2300332: Fence022
+    2300334: Fence023
+    2300336: Fence024
+    2300338: Fence025
+    2300340: Fence026
+    2300342: Fence027
+    2300344: Front Area
+    2300346: Front Desk
+    2300348: Front Desk Higher Platform
+    2300350: Front Left Tunnel Wall
+    2300352: Front Left Tunnel Wall001
+    2300354: Front Right Tunnel Wall
+    2300356: Front Right Tunnel Wall001
+    2300358: Half Plank00
+    2300360: Half Plank001
+    2300362: Half Plank002
+    2300364: Half Plank003
+    2300366: Half Plank004
+    2300368: Half Plank005
+    2300370: Half Plank006
+    2300372: Half Plank007
+    2300374: Half Plank008
+    2300376: Half Plank009
+    2300378: Half Plank010
+    2300380: Half Plank011
+    2300382: Half Plank012
+    2300384: Half Plank013
+    2300386: Half Plank014
+    2300388: Half Plank015
+    2300390: Half Plank016
+    2300392: Half Plank017
+    2300394: Half Plank018
+    2300396: Half Plank019
+    2300398: Half Plank020
+    2300400: Half Plank021
+    2300402: Half Plank022
+    2300404: Half Plank023
+    2300406: Half Plank024
+    2300408: Half Plank025
+    2300410: Half Plank026
+    2300412: Half Plank027
+    2300414: Half Plank028
+    2300416: Half Plank029
+    2300418: Half Plank030
+    2300420: Help Desk Floor
+    2300422: Help Desk Roof
+    2300424: Plank00
+    2300426: Plank001
+    2300428: Plank002
+    2300430: Plank003
+    2300432: Plank004
+    2300434: Plank005
+    2300436: Plank006
+    2300438: Plank007
+    2300440: Plank008
+    2300442: Plank009
+    2300444: Plank010
+    2300446: Plank011
+    2300448: Plank012
+    2300450: Plank013
+    2300452: Plank014
+    2300454: Plank015
+    2300456: Plank016
+    2300458: Plank017
+    2300460: Plank018
+    2300462: Plank019
+    2300464: Plank020
+    2300466: Plank021
+    2300468: Plank022
+    2300470: Plank023
+    2300472: Plank024
+    2300474: Plank025
+    2300476: Plank026
+    2300478: Plank027
+    2300480: Plank028
+    2300482: Plank029
+    2300484: Plank030
+    2300486: Pole008
+    2300488: Pole009
+    2300490: Pole010
+    2300492: Pole011
+    2300494: Pole012
+    2300496: Pole013
+    2300498: Pole014
+    2300500: Pole015
+    2300502: Pole024
+    2300504: Pole025
+    2300506: Pole026
+    2300508: Pole027
+    2300510: Pole028
+    2300512: Pole029
+    2300514: Pole030
+    2300516: Pole031
+    2300518: Post00
+    2300520: Post001
+    2300522: Post002
+    2300524: Post003
+    2300526: Post004
+    2300528: Post005
+    2300530: Post006
+    2300532: Post007
+    2300534: Post008
+    2300536: Post009
+    2300538: Post010
+    2300540: Post011
+    2300542: Post012
+    2300544: Post013
+    2300546: Post014
+    2300548: Post015
+    2300550: Post016
+    2300552: Post017
+    2300554: Post018
+    2300556: Post019
+    2300558: Post020
+    2300560: Post021
+    2300562: Post022
+    2300564: Post023
+    2300566: Post024
+    2300568: Post025
+    2300570: Post026
+    2300572: Post027
+    2300574: Post028
+    2300576: Post029
+    2300578: Post030
+    2300580: Roof
+    2300582: Screen Textured
+    2300584: Screen Textured001
+    2300586: Screen Textured002
+    2300588: Screen Textured003
+    2300590: Screen Textured004
+    2300592: Screen Textured005
+    2300594: Screen Textured006
+    2300596: Screen Textured007
+    2300598: Screen Textured008
+    2300600: Screen Textured009
+    2300602: Screen Textured010
+    2300604: Screen Textured011
+    2300606: Screen Textured012
+    2300608: Screen Textured013
+    2300610: Screen Textured014
+    2300612: Screen Textured015
+    2300614: Second Floor
+    2300616: Sign
+    2300618: Sign 2
+    2300620: Sign Stand 1
+    2300622: Sign Stand 2
+    2300624: Sign Stand 3
+    2300626: Sign Stand 4
+    2300628: Station Floor
+    2300630: Terminal Wall014
+    2300632: Terminal Wall015
+    2300634: Terminal Wall016
+    2300636: Terminal Wall017
+    2300638: Terminal Wall018
+    2300640: Terminal Wall019
+    2300642: Terminal Wall02
+    2300644: Terminal Wall020
+    2300646: Terminal Wall021
+    2300648: Terminal Wall03
+    2300650: Terminal Wall04
+    2300652: Terminal Wall05
+    2300654: Terminal Wall10
+    2300656: Terminal Wall11
+    2300658: Terminal Wall12
+    2300660: Terminal Wall13
+    2300662: Third Floor
+    2300664: Train Rail Way Floor
+    2300666: Train Rail Way Floor 2
+    2300668: Train T
+    2300670: Train T001
+    2300672: Train001
+    2300674: Train002
+    2300676: VendingMachine009
+    2300678: VendingMachine010
+    2300680: VendingMachine011
+    2300682: VendingMachine012
+    2300684: VendingMachine013
+    2300686: VendingMachine014
+    2300688: VendingMachine015
+    2300690: VendingMachine016
+    2300692: VendingMachine017
+    2300694: VendingMachine018
+    2300696: VendingMachine019
+    2300698: VendingMachine020
+    2300700: VendingMachine021
+    2300702: VendingMachine022
+    2300704: VendingMachine023
+    2300706: VendingMachine024
+    2300708: VendingMachine025
+    2300710: VendingMachine026
+    3300000: Back Area
+    3300002: Back Desk
+    3300004: Back Desk Higher Platform
+    3300006: 'Back Left Train Tunnel '
+    3300008: Back Left Train Tunnel 001
+    3300010: Back Left Train Tunnel 002
+    3300012: Back Left Train Tunnel 003
+    3300014: Back Left Tunnel Wall
+    3300016: Back Left Tunnel Wall001
+    3300018: Back Right Tunnel Wall
+    3300020: Back Right Tunnel Wall001
+    3300022: Backroom Floor Back
+    3300024: Backroom Floor Front
+    3300026: Bench T
+    3300028: Bench T 009
+    3300030: Bench T 010
+    3300032: Bench T 011
+    3300034: Bench T 012
+    3300036: Bench T 013
+    3300038: Bench T 014
+    3300040: Bench T 2
+    3300042: Bench T 3
+    3300044: Bench T 4
+    3300046: Bench T 5
+    3300048: Bench T 6
+    3300050: Bench T 7
+    3300052: Bench T 8
+    3300054: Box Type 003
+    3300056: Box Type 004
+    3300058: Box Type 005
+    3300060: Box Type 006
+    3300062: Box Type 007
+    3300064: Box Type 008
+    3300066: Box Type 009
+    3300068: Box Type 010
+    3300070: Box Type 011
+    3300072: Box Type 012
+    3300074: Box Type 013
+    3300076: Box Type 014
+    3300078: Box Type 015
+    3300080: Box Type 016
+    3300082: Box Type 017
+    3300084: Box Type 018
+    3300086: Box Type 019
+    3300088: Box Type 020
+    3300090: Box Type 021
+    3300092: Box Type 022
+    3300094: Box Type 023
+    3300096: Box Type 024
+    3300098: Box Type 025
+    3300100: Box Type 1
+    3300102: Box Type 2
+    3300104: Box016
+    3300106: Box017
+    3300108: Box018
+    3300110: Box019
+    3300112: Box020
+    3300114: Box021
+    3300116: Box022
+    3300118: Box023
+    3300120: Bridge 003
+    3300122: Bridge 004
+    3300124: Bridge 005
+    3300126: Bridge 2
+    3300128: Centre Back Wall
+    3300130: Centre Back Wall001
+    3300132: Centre Back Wall002
+    3300134: Centre Back Wall003
+    3300136: Centre Back Wall004
+    3300138: Centre Back Wall005
+    3300140: Centre Back Wall006
+    3300142: Centre Back Wall007
+    3300144: Centre Back Wall008
+    3300146: Centre Back Wall009
+    3300148: Centre Back Wall010
+    3300150: Centre Back Wall011
+    3300152: Cylinder017
+    3300154: Cylinder018
+    3300156: Cylinder019
+    3300158: Cylinder020
+    3300160: Cylinder021
+    3300162: Cylinder022
+    3300164: Cylinder023
+    3300166: Cylinder024
+    3300168: Cylinder025
+    3300170: Cylinder026
+    3300172: Cylinder027
+    3300174: Cylinder028
+    3300176: Cylinder029
+    3300178: Cylinder030
+    3300180: Cylinder031
+    3300182: Cylinder032
+    3300184: Cylinder033
+    3300186: Cylinder034
+    3300188: Cylinder035
+    3300190: Cylinder036
+    3300192: Cylinder037
+    3300194: Cylinder038
+    3300196: Cylinder039
+    3300198: Cylinder040
+    3300200: Cylinder041
+    3300202: Cylinder042
+    3300204: Cylinder043
+    3300206: Cylinder044
+    3300208: Cylinder045
+    3300210: Cylinder046
+    3300212: Cylinder047
+    3300214: Cylinder048
+    3300216: Cylinder049
+    3300218: Cylinder050
+    3300220: Cylinder051
+    3300222: Cylinder052
+    3300224: Door Way 1
+    3300226: Door Way 2
+    3300228: Door Way 3
+    3300230: Door Way 4
+    3300232: Entrance Wall 003
+    3300234: Entrance Wall 004
+    3300236: Entrance Wall 005
+    3300238: Entrance Wall 2
+    3300240: Fence
+    3300242: Fence Pole
+    3300244: Fence Pole001
+    3300246: Fence Pole002
+    3300248: Fence Pole003
+    3300250: Fence Pole004
+    3300252: Fence Pole005
+    3300254: Fence Pole006
+    3300256: Fence Pole007
+    3300258: Fence Pole008
+    3300260: Fence Pole009
+    3300262: Fence Pole010
+    3300264: Fence Pole011
+    3300266: Fence Pole012
+    3300268: Fence Pole013
+    3300270: Fence Pole014
+    3300272: Fence Pole015
+    3300274: Fence Pole016
+    3300276: Fence Pole017
+    3300278: Fence Pole018
+    3300280: Fence Pole019
+    3300282: Fence Pole020
+    3300284: Fence Pole021
+    3300286: Fence Pole022
+    3300288: Fence Pole023
+    3300290: Fence001
+    3300292: Fence002
+    3300294: Fence003
+    3300296: Fence004
+    3300298: Fence005
+    3300300: Fence006
+    3300302: Fence007
+    3300304: Fence008
+    3300306: Fence009
+    3300308: Fence010
+    3300310: Fence011
+    3300312: Fence012
+    3300314: Fence013
+    3300316: Fence014
+    3300318: Fence015
+    3300320: Fence016
+    3300322: Fence017
+    3300324: Fence018
+    3300326: Fence019
+    3300328: Fence020
+    3300330: Fence021
+    3300332: Fence022
+    3300334: Fence023
+    3300336: Fence024
+    3300338: Fence025
+    3300340: Fence026
+    3300342: Fence027
+    3300344: Front Area
+    3300346: Front Desk
+    3300348: Front Desk Higher Platform
+    3300350: Front Left Tunnel Wall
+    3300352: Front Left Tunnel Wall001
+    3300354: Front Right Tunnel Wall
+    3300356: Front Right Tunnel Wall001
+    3300358: Half Plank00
+    3300360: Half Plank001
+    3300362: Half Plank002
+    3300364: Half Plank003
+    3300366: Half Plank004
+    3300368: Half Plank005
+    3300370: Half Plank006
+    3300372: Half Plank007
+    3300374: Half Plank008
+    3300376: Half Plank009
+    3300378: Half Plank010
+    3300380: Half Plank011
+    3300382: Half Plank012
+    3300384: Half Plank013
+    3300386: Half Plank014
+    3300388: Half Plank015
+    3300390: Half Plank016
+    3300392: Half Plank017
+    3300394: Half Plank018
+    3300396: Half Plank019
+    3300398: Half Plank020
+    3300400: Half Plank021
+    3300402: Half Plank022
+    3300404: Half Plank023
+    3300406: Half Plank024
+    3300408: Half Plank025
+    3300410: Half Plank026
+    3300412: Half Plank027
+    3300414: Half Plank028
+    3300416: Half Plank029
+    3300418: Half Plank030
+    3300420: Help Desk Floor
+    3300422: Help Desk Roof
+    3300424: Plank00
+    3300426: Plank001
+    3300428: Plank002
+    3300430: Plank003
+    3300432: Plank004
+    3300434: Plank005
+    3300436: Plank006
+    3300438: Plank007
+    3300440: Plank008
+    3300442: Plank009
+    3300444: Plank010
+    3300446: Plank011
+    3300448: Plank012
+    3300450: Plank013
+    3300452: Plank014
+    3300454: Plank015
+    3300456: Plank016
+    3300458: Plank017
+    3300460: Plank018
+    3300462: Plank019
+    3300464: Plank020
+    3300466: Plank021
+    3300468: Plank022
+    3300470: Plank023
+    3300472: Plank024
+    3300474: Plank025
+    3300476: Plank026
+    3300478: Plank027
+    3300480: Plank028
+    3300482: Plank029
+    3300484: Plank030
+    3300486: Pole008
+    3300488: Pole009
+    3300490: Pole010
+    3300492: Pole011
+    3300494: Pole012
+    3300496: Pole013
+    3300498: Pole014
+    3300500: Pole015
+    3300502: Pole024
+    3300504: Pole025
+    3300506: Pole026
+    3300508: Pole027
+    3300510: Pole028
+    3300512: Pole029
+    3300514: Pole030
+    3300516: Pole031
+    3300518: Post00
+    3300520: Post001
+    3300522: Post002
+    3300524: Post003
+    3300526: Post004
+    3300528: Post005
+    3300530: Post006
+    3300532: Post007
+    3300534: Post008
+    3300536: Post009
+    3300538: Post010
+    3300540: Post011
+    3300542: Post012
+    3300544: Post013
+    3300546: Post014
+    3300548: Post015
+    3300550: Post016
+    3300552: Post017
+    3300554: Post018
+    3300556: Post019
+    3300558: Post020
+    3300560: Post021
+    3300562: Post022
+    3300564: Post023
+    3300566: Post024
+    3300568: Post025
+    3300570: Post026
+    3300572: Post027
+    3300574: Post028
+    3300576: Post029
+    3300578: Post030
+    3300580: Roof
+    3300582: Screen Textured
+    3300584: Screen Textured001
+    3300586: Screen Textured002
+    3300588: Screen Textured003
+    3300590: Screen Textured004
+    3300592: Screen Textured005
+    3300594: Screen Textured006
+    3300596: Screen Textured007
+    3300598: Screen Textured008
+    3300600: Screen Textured009
+    3300602: Screen Textured010
+    3300604: Screen Textured011
+    3300606: Screen Textured012
+    3300608: Screen Textured013
+    3300610: Screen Textured014
+    3300612: Screen Textured015
+    3300614: Second Floor
+    3300616: Sign
+    3300618: Sign 2
+    3300620: Sign Stand 1
+    3300622: Sign Stand 2
+    3300624: Sign Stand 3
+    3300626: Sign Stand 4
+    3300628: Station Floor
+    3300630: Terminal Wall014
+    3300632: Terminal Wall015
+    3300634: Terminal Wall016
+    3300636: Terminal Wall017
+    3300638: Terminal Wall018
+    3300640: Terminal Wall019
+    3300642: Terminal Wall02
+    3300644: Terminal Wall020
+    3300646: Terminal Wall021
+    3300648: Terminal Wall03
+    3300650: Terminal Wall04
+    3300652: Terminal Wall05
+    3300654: Terminal Wall10
+    3300656: Terminal Wall11
+    3300658: Terminal Wall12
+    3300660: Terminal Wall13
+    3300662: Third Floor
+    3300664: Train Rail Way Floor
+    3300666: Train Rail Way Floor 2
+    3300668: Train T
+    3300670: Train T001
+    3300672: Train001
+    3300674: Train002
+    3300676: VendingMachine009
+    3300678: VendingMachine010
+    3300680: VendingMachine011
+    3300682: VendingMachine012
+    3300684: VendingMachine013
+    3300686: VendingMachine014
+    3300688: VendingMachine015
+    3300690: VendingMachine016
+    3300692: VendingMachine017
+    3300694: VendingMachine018
+    3300696: VendingMachine019
+    3300698: VendingMachine020
+    3300700: VendingMachine021
+    3300702: VendingMachine022
+    3300704: VendingMachine023
+    3300706: VendingMachine024
+    3300708: VendingMachine025
+    3300710: VendingMachine026
+    4300000: Station Floor
+    4300002: Bridge 2
+    4300004: Centre Back Wall
+    4300006: Backroom Floor Back
+    4300008: Backroom Floor Front
+    4300010: Entrance Wall 2
+    4300012: Train Rail Way Floor
+    4300014: Train Rail Way Floor 2
+    4300016: Front Area
+    4300018: Back Area
+    4300020: 'Back Left Train Tunnel '
+    4300022: Train T
+    4300024: Train001
+    4300026: Train002
+    4300028: Train T001
+    4300030: Box Type 1
+    4300032: Box Type 2
+    4300034: Post00
+    4300036: Plank00
+    4300038: Half Plank00
+    4300040: Bench T
+    4300042: Bench T 2
+    4300044: Bench T 3
+    4300046: Bench T 4
+    4300048: Bench T 5
+    4300050: Bench T 6
+    4300052: Bench T 7
+    4300054: Bench T 8
+    4300056: Cylinder017
+    4300058: Cylinder018
+    4300060: Cylinder019
+    4300062: Cylinder020
+    4300064: VendingMachine009
+    4300066: Box016
+    4300068: VendingMachine010
+    4300070: Centre Back Wall001
+    4300072: Centre Back Wall002
+    4300074: Centre Back Wall003
+    4300076: Box Type 003
+    4300078: Box Type 004
+    4300080: Half Plank001
+    4300082: Post001
+    4300084: Plank001
+    4300086: Half Plank002
+    4300088: Post002
+    4300090: Plank002
+    4300092: Half Plank003
+    4300094: Post003
+    4300096: Plank003
+    4300098: Half Plank004
+    4300100: Post004
+    4300102: Plank004
+    4300104: Half Plank005
+    4300106: Post005
+    4300108: Plank005
+    4300110: Half Plank006
+    4300112: Post006
+    4300114: Plank006
+    4300116: Plank007
+    4300118: Half Plank007
+    4300120: Post007
+    4300122: Half Plank008
+    4300124: Post008
+    4300126: Plank008
+    4300128: Half Plank009
+    4300130: Post009
+    4300132: Plank009
+    4300134: Plank010
+    4300136: Half Plank010
+    4300138: Post010
+    4300140: VendingMachine011
+    4300142: Cylinder021
+    4300144: Cylinder022
+    4300146: VendingMachine012
+    4300148: Cylinder023
+    4300150: Cylinder024
+    4300152: Box Type 005
+    4300154: Box Type 006
+    4300156: Box Type 007
+    4300158: Centre Back Wall004
+    4300160: Centre Back Wall005
+    4300162: Centre Back Wall006
+    4300164: Centre Back Wall007
+    4300166: Entrance Wall 003
+    4300168: Half Plank011
+    4300170: Post011
+    4300172: Plank011
+    4300174: Box Type 008
+    4300176: Box Type 009
+    4300178: Bridge 003
+    4300180: Bridge 004
+    4300182: Bridge 005
+    4300184: Back Right Tunnel Wall
+    4300186: Back Left Train Tunnel 001
+    4300188: Back Left Tunnel Wall
+    4300190: Back Left Train Tunnel 002
+    4300192: Front Left Tunnel Wall
+    4300194: Front Right Tunnel Wall
+    4300196: Back Left Train Tunnel 003
+    4300198: Screen Textured015
+    4300200: Screen Textured014
+    4300202: Screen Textured013
+    4300204: Screen Textured012
+    4300206: Screen Textured011
+    4300208: Screen Textured010
+    4300210: Screen Textured009
+    4300212: Screen Textured008
+    4300214: Screen Textured007
+    4300216: Screen Textured006
+    4300218: Screen Textured005
+    4300220: Screen Textured004
+    4300222: Screen Textured003
+    4300224: Screen Textured002
+    4300226: Screen Textured001
+    4300228: Screen Textured
+    4300230: Pole031
+    4300232: Pole030
+    4300234: Pole029
+    4300236: Pole028
+    4300238: Pole027
+    4300240: Pole026
+    4300242: Pole025
+    4300244: Pole024
+    4300246: Pole015
+    4300248: Pole014
+    4300250: Pole013
+    4300252: Pole012
+    4300254: Pole011
+    4300256: Pole010
+    4300258: Pole009
+    4300260: Pole008
+    4300262: Fence Pole
+    4300264: Fence
+    4300266: Fence001
+    4300268: Fence Pole001
+    4300270: Fence002
+    4300272: Fence Pole002
+    4300274: Fence003
+    4300276: Fence Pole003
+    4300278: Fence004
+    4300280: Fence Pole004
+    4300282: Fence005
+    4300284: Fence Pole005
+    4300286: Fence006
+    4300288: Fence007
+    4300290: Fence008
+    4300292: Fence Pole006
+    4300294: Fence009
+    4300296: Fence Pole007
+    4300298: Fence010
+    4300300: Fence Pole008
+    4300302: Fence Pole009
+    4300304: Fence011
+    4300306: Fence Pole010
+    4300308: Fence012
+    4300310: Fence Pole011
+    4300312: Fence013
+    4300314: Terminal Wall02
+    4300316: Terminal Wall03
+    4300318: Terminal Wall04
+    4300320: Terminal Wall05
+    4300322: Terminal Wall10
+    4300324: Terminal Wall11
+    4300326: Terminal Wall12
+    4300328: Terminal Wall13
+    4300330: Terminal Wall014
+    4300332: Terminal Wall015
+    4300334: Terminal Wall016
+    4300336: Terminal Wall017
+    4300338: Terminal Wall018
+    4300340: Terminal Wall019
+    4300342: Terminal Wall020
+    4300344: Terminal Wall021
+    4300346: Second Floor
+    4300348: Centre Back Wall008
+    4300350: Centre Back Wall009
+    4300352: Centre Back Wall010
+    4300354: Centre Back Wall011
+    4300356: Front Left Tunnel Wall001
+    4300358: Front Right Tunnel Wall001
+    4300360: Back Left Tunnel Wall001
+    4300362: Back Right Tunnel Wall001
+    4300364: Entrance Wall 004
+    4300366: Entrance Wall 005
+    4300368: Help Desk Floor
+    4300370: Door Way 1
+    4300372: Front Desk
+    4300374: Help Desk Roof
+    4300376: Door Way 3
+    4300378: Door Way 4
+    4300380: Door Way 2
+    4300382: Back Desk
+    4300384: Front Desk Higher Platform
+    4300386: Back Desk Higher Platform
+    4300388: Sign Stand 1
+    4300390: Sign Stand 2
+    4300392: Sign
+    4300394: Sign 2
+    4300396: Sign Stand 3
+    4300398: Sign Stand 4
+    4300400: Third Floor
+    4300402: Fence014
+    4300404: Fence Pole012
+    4300406: Fence015
+    4300408: Fence016
+    4300410: Fence Pole013
+    4300412: Fence017
+    4300414: Fence Pole014
+    4300416: Fence Pole015
+    4300418: Fence018
+    4300420: Fence Pole016
+    4300422: Fence019
+    4300424: Fence Pole017
+    4300426: Fence020
+    4300428: Fence021
+    4300430: Fence Pole018
+    4300432: Fence022
+    4300434: Fence023
+    4300436: Fence Pole019
+    4300438: Fence024
+    4300440: Fence Pole020
+    4300442: Fence Pole021
+    4300444: Fence025
+    4300446: Fence Pole022
+    4300448: Fence026
+    4300450: Fence Pole023
+    4300452: Fence027
+    4300454: Roof
+    4300456: Box Type 010
+    4300458: Half Plank012
+    4300460: Post012
+    4300462: Plank012
+    4300464: Half Plank013
+    4300466: Post013
+    4300468: Plank013
+    4300470: Half Plank014
+    4300472: Post014
+    4300474: Plank014
+    4300476: Half Plank015
+    4300478: Post015
+    4300480: Plank015
+    4300482: Box Type 011
+    4300484: Box Type 012
+    4300486: Plank016
+    4300488: Post016
+    4300490: Half Plank016
+    4300492: Box Type 013
+    4300494: Box Type 014
+    4300496: Box Type 015
+    4300498: Box Type 016
+    4300500: Box Type 017
+    4300502: Box Type 018
+    4300504: Plank017
+    4300506: Post017
+    4300508: Half Plank017
+    4300510: Cylinder025
+    4300512: Cylinder026
+    4300514: Cylinder027
+    4300516: Cylinder028
+    4300518: VendingMachine013
+    4300520: Box017
+    4300522: VendingMachine014
+    4300524: Cylinder029
+    4300526: Cylinder030
+    4300528: Cylinder031
+    4300530: Cylinder032
+    4300532: VendingMachine015
+    4300534: Box018
+    4300536: VendingMachine016
+    4300538: VendingMachine017
+    4300540: Box019
+    4300542: VendingMachine018
+    4300544: Cylinder033
+    4300546: Cylinder034
+    4300548: Cylinder035
+    4300550: Cylinder036
+    4300552: VendingMachine019
+    4300554: Box020
+    4300556: VendingMachine020
+    4300558: Cylinder037
+    4300560: Cylinder038
+    4300562: Cylinder039
+    4300564: Cylinder040
+    4300566: Bench T 009
+    4300568: Bench T 010
+    4300570: Bench T 011
+    4300572: Plank018
+    4300574: Half Plank018
+    4300576: Post018
+    4300578: Half Plank019
+    4300580: Post019
+    4300582: Plank019
+    4300584: Post020
+    4300586: Half Plank020
+    4300588: Plank020
+    4300590: Half Plank021
+    4300592: Post021
+    4300594: Plank021
+    4300596: Bench T 012
+    4300598: Half Plank022
+    4300600: Post022
+    4300602: Plank022
+    4300604: Box Type 019
+    4300606: Box Type 020
+    4300608: Box Type 021
+    4300610: Cylinder041
+    4300612: Cylinder042
+    4300614: Cylinder043
+    4300616: VendingMachine021
+    4300618: Box021
+    4300620: Cylinder044
+    4300622: VendingMachine022
+    4300624: Half Plank023
+    4300626: Plank023
+    4300628: Post023
+    4300630: Cylinder045
+    4300632: Cylinder046
+    4300634: Cylinder047
+    4300636: VendingMachine023
+    4300638: Box022
+    4300640: Cylinder048
+    4300642: Plank024
+    4300644: Half Plank024
+    4300646: Post024
+    4300648: VendingMachine024
+    4300650: Cylinder049
+    4300652: Cylinder050
+    4300654: Cylinder051
+    4300656: VendingMachine025
+    4300658: Cylinder052
+    4300660: Box023
+    4300662: VendingMachine026
+    4300664: Half Plank025
+    4300666: Plank025
+    4300668: Post025
+    4300670: Plank026
+    4300672: Half Plank026
+    4300674: Post026
+    4300676: Box Type 022
+    4300678: Box Type 023
+    4300680: Box Type 024
+    4300682: Bench T 013
+    4300684: Bench T 014
+    4300686: Plank027
+    4300688: Half Plank027
+    4300690: Post027
+    4300692: Half Plank028
+    4300694: Plank028
+    4300696: Post028
+    4300698: Box Type 025
+    4300700: Half Plank029
+    4300702: Post029
+    4300704: Plank029
+    4300706: Half Plank030
+    4300708: Post030
+    4300710: Plank030
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

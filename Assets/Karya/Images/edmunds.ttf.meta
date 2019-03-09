@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 809c7493b67bf494bb1cd8eb102df38c
+timeCreated: 1524082198
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Edmunds
+  fontNames:
+  - Edmunds
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 45a807b573856b2469582f5038ced2cf, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

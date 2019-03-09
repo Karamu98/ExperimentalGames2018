@@ -1,0 +1,721 @@
+fileFormatVersion: 2
+guid: 7da0fb682b04ea74fb7a82e726af9ba0
+timeCreated: 1524140218
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Back Area Wall
+    100002: Back Left Train Tunnel
+    100004: Back Right Train Tunnel
+    100006: Backroom Floor Back
+    100008: Backroom Floor Front
+    100010: Bench
+    100012: Bench001
+    100014: Bench002
+    100016: Bench003
+    100018: Bench004
+    100020: Bench005
+    100022: Bench006
+    100024: Bench007
+    100026: Benches
+    100028: Box001
+    100030: Box003
+    100032: Box013
+    100034: Box014
+    100036: Box015
+    100038: Bridge 1
+    100040: Bridge 2
+    100042: Centre Back Wall
+    100044: Centre Front Wall
+    100046: Cylinder001
+    100048: Cylinder002
+    100050: Cylinder003
+    100052: Cylinder004
+    100054: Cylinder005
+    100056: Cylinder006
+    100058: Cylinder007
+    100060: Cylinder008
+    100062: Cylinder009
+    100064: Cylinder010
+    100066: Cylinder011
+    100068: Cylinder012
+    100070: Cylinder013
+    100072: Cylinder014
+    100074: Cylinder015
+    100076: Cylinder016
+    100078: Entrance Wall
+    100080: Entrance Wall 2
+    100082: Front Area Wall
+    100084: Front Left Train Tunnel
+    100086: Front Left Train Tunnel001
+    100088: Front Right Train Tunnel002
+    100090: Front Right Train Tunnel003
+    100092: Jerry
+    100094: Pole
+    100096: Pole001
+    100098: Pole002
+    100100: Pole003
+    100102: Pole004
+    100104: Pole005
+    100106: Pole006
+    100108: Pole007
+    100110: Pole008
+    100112: Pole009
+    100114: Pole010
+    100116: Pole011
+    100118: Pole012
+    100120: Pole013
+    100122: Pole014
+    100124: Pole015
+    100126: Pole016
+    100128: Pole017
+    100130: Pole018
+    100132: Pole019
+    100134: Pole020
+    100136: Pole021
+    100138: Pole022
+    100140: Pole023
+    100142: Screen 003
+    100144: Screen 004
+    100146: Screen 005
+    100148: Screen 006
+    100150: Screen 007
+    100152: Screen 008
+    100154: Screen 009
+    100156: Screen 010
+    100158: Screen 011
+    100160: Screen 012
+    100162: Screen 013
+    100164: Screen 014
+    100166: Screen 015
+    100168: Screen 016
+    100170: Screen 017
+    100172: Screen 018
+    100174: Screen 019
+    100176: Screen 020
+    100178: Screen 021
+    100180: Screen 022
+    100182: Screen 023
+    100184: Screen 024
+    100186: Screen 025
+    100188: Screen 026
+    100190: Screen 027
+    100192: Screen 028
+    100194: Screen 029
+    100196: Screen 030
+    100198: Screen 031
+    100200: Screen 032
+    100202: Screen 033
+    100204: Screen 036
+    100206: Screen 038
+    100208: Screen 039
+    100210: Screen 040
+    100212: Screen 041
+    100214: Screen 042
+    100216: Screen 043
+    100218: Screen 1
+    100220: Screen 2
+    100222: Station Floor
+    100224: Terminals
+    100226: Terminals On Wall
+    100228: Train
+    100230: Train 2
+    100232: Train Rail Way Floor
+    100234: Train Rail Way Floor 2
+    100236: //RootNode
+    100238: Vending Machine
+    100240: Vending Machine001
+    100242: Vending Machine002
+    100244: Vending Machine003
+    100246: VendingMachine
+    100248: VendingMachine003
+    100250: VendingMachine004
+    100252: VendingMachine005
+    100254: VendingMachine006
+    100256: VendingMachine007
+    100258: VendingMachine008
+    100260: VendingMachine2
+    400000: Back Area Wall
+    400002: Back Left Train Tunnel
+    400004: Back Right Train Tunnel
+    400006: Backroom Floor Back
+    400008: Backroom Floor Front
+    400010: Bench
+    400012: Bench001
+    400014: Bench002
+    400016: Bench003
+    400018: Bench004
+    400020: Bench005
+    400022: Bench006
+    400024: Bench007
+    400026: Benches
+    400028: Box001
+    400030: Box003
+    400032: Box013
+    400034: Box014
+    400036: Box015
+    400038: Bridge 1
+    400040: Bridge 2
+    400042: Centre Back Wall
+    400044: Centre Front Wall
+    400046: Cylinder001
+    400048: Cylinder002
+    400050: Cylinder003
+    400052: Cylinder004
+    400054: Cylinder005
+    400056: Cylinder006
+    400058: Cylinder007
+    400060: Cylinder008
+    400062: Cylinder009
+    400064: Cylinder010
+    400066: Cylinder011
+    400068: Cylinder012
+    400070: Cylinder013
+    400072: Cylinder014
+    400074: Cylinder015
+    400076: Cylinder016
+    400078: Entrance Wall
+    400080: Entrance Wall 2
+    400082: Front Area Wall
+    400084: Front Left Train Tunnel
+    400086: Front Left Train Tunnel001
+    400088: Front Right Train Tunnel002
+    400090: Front Right Train Tunnel003
+    400092: Jerry
+    400094: Pole
+    400096: Pole001
+    400098: Pole002
+    400100: Pole003
+    400102: Pole004
+    400104: Pole005
+    400106: Pole006
+    400108: Pole007
+    400110: Pole008
+    400112: Pole009
+    400114: Pole010
+    400116: Pole011
+    400118: Pole012
+    400120: Pole013
+    400122: Pole014
+    400124: Pole015
+    400126: Pole016
+    400128: Pole017
+    400130: Pole018
+    400132: Pole019
+    400134: Pole020
+    400136: Pole021
+    400138: Pole022
+    400140: Pole023
+    400142: Screen 003
+    400144: Screen 004
+    400146: Screen 005
+    400148: Screen 006
+    400150: Screen 007
+    400152: Screen 008
+    400154: Screen 009
+    400156: Screen 010
+    400158: Screen 011
+    400160: Screen 012
+    400162: Screen 013
+    400164: Screen 014
+    400166: Screen 015
+    400168: Screen 016
+    400170: Screen 017
+    400172: Screen 018
+    400174: Screen 019
+    400176: Screen 020
+    400178: Screen 021
+    400180: Screen 022
+    400182: Screen 023
+    400184: Screen 024
+    400186: Screen 025
+    400188: Screen 026
+    400190: Screen 027
+    400192: Screen 028
+    400194: Screen 029
+    400196: Screen 030
+    400198: Screen 031
+    400200: Screen 032
+    400202: Screen 033
+    400204: Screen 036
+    400206: Screen 038
+    400208: Screen 039
+    400210: Screen 040
+    400212: Screen 041
+    400214: Screen 042
+    400216: Screen 043
+    400218: Screen 1
+    400220: Screen 2
+    400222: Station Floor
+    400224: Terminals
+    400226: Terminals On Wall
+    400228: Train
+    400230: Train 2
+    400232: Train Rail Way Floor
+    400234: Train Rail Way Floor 2
+    400236: //RootNode
+    400238: Vending Machine
+    400240: Vending Machine001
+    400242: Vending Machine002
+    400244: Vending Machine003
+    400246: VendingMachine
+    400248: VendingMachine003
+    400250: VendingMachine004
+    400252: VendingMachine005
+    400254: VendingMachine006
+    400256: VendingMachine007
+    400258: VendingMachine008
+    400260: VendingMachine2
+    2100000: No Name
+    2100002: hand-free_default
+    2300000: Back Area Wall
+    2300002: Back Left Train Tunnel
+    2300004: Back Right Train Tunnel
+    2300006: Backroom Floor Back
+    2300008: Backroom Floor Front
+    2300010: Bench
+    2300012: Bench001
+    2300014: Bench002
+    2300016: Bench003
+    2300018: Bench004
+    2300020: Bench005
+    2300022: Bench006
+    2300024: Bench007
+    2300026: Box001
+    2300028: Box003
+    2300030: Box013
+    2300032: Box014
+    2300034: Box015
+    2300036: Bridge 1
+    2300038: Bridge 2
+    2300040: Centre Back Wall
+    2300042: Centre Front Wall
+    2300044: Cylinder001
+    2300046: Cylinder002
+    2300048: Cylinder003
+    2300050: Cylinder004
+    2300052: Cylinder005
+    2300054: Cylinder006
+    2300056: Cylinder007
+    2300058: Cylinder008
+    2300060: Cylinder009
+    2300062: Cylinder010
+    2300064: Cylinder011
+    2300066: Cylinder012
+    2300068: Cylinder013
+    2300070: Cylinder014
+    2300072: Cylinder015
+    2300074: Cylinder016
+    2300076: Entrance Wall
+    2300078: Entrance Wall 2
+    2300080: Front Area Wall
+    2300082: Front Left Train Tunnel
+    2300084: Front Left Train Tunnel001
+    2300086: Front Right Train Tunnel002
+    2300088: Front Right Train Tunnel003
+    2300090: Jerry
+    2300092: Pole
+    2300094: Pole001
+    2300096: Pole002
+    2300098: Pole003
+    2300100: Pole004
+    2300102: Pole005
+    2300104: Pole006
+    2300106: Pole007
+    2300108: Pole008
+    2300110: Pole009
+    2300112: Pole010
+    2300114: Pole011
+    2300116: Pole012
+    2300118: Pole013
+    2300120: Pole014
+    2300122: Pole015
+    2300124: Pole016
+    2300126: Pole017
+    2300128: Pole018
+    2300130: Pole019
+    2300132: Pole020
+    2300134: Pole021
+    2300136: Pole022
+    2300138: Pole023
+    2300140: Screen 003
+    2300142: Screen 004
+    2300144: Screen 005
+    2300146: Screen 006
+    2300148: Screen 007
+    2300150: Screen 008
+    2300152: Screen 009
+    2300154: Screen 010
+    2300156: Screen 011
+    2300158: Screen 012
+    2300160: Screen 013
+    2300162: Screen 014
+    2300164: Screen 015
+    2300166: Screen 016
+    2300168: Screen 017
+    2300170: Screen 018
+    2300172: Screen 019
+    2300174: Screen 020
+    2300176: Screen 021
+    2300178: Screen 022
+    2300180: Screen 023
+    2300182: Screen 024
+    2300184: Screen 025
+    2300186: Screen 026
+    2300188: Screen 027
+    2300190: Screen 028
+    2300192: Screen 029
+    2300194: Screen 030
+    2300196: Screen 031
+    2300198: Screen 032
+    2300200: Screen 033
+    2300202: Screen 036
+    2300204: Screen 038
+    2300206: Screen 039
+    2300208: Screen 040
+    2300210: Screen 041
+    2300212: Screen 042
+    2300214: Screen 043
+    2300216: Screen 1
+    2300218: Screen 2
+    2300220: Station Floor
+    2300222: Train
+    2300224: Train 2
+    2300226: Train Rail Way Floor
+    2300228: Train Rail Way Floor 2
+    2300230: VendingMachine
+    2300232: VendingMachine003
+    2300234: VendingMachine004
+    2300236: VendingMachine005
+    2300238: VendingMachine006
+    2300240: VendingMachine007
+    2300242: VendingMachine008
+    2300244: VendingMachine2
+    3300000: Back Area Wall
+    3300002: Back Left Train Tunnel
+    3300004: Back Right Train Tunnel
+    3300006: Backroom Floor Back
+    3300008: Backroom Floor Front
+    3300010: Bench
+    3300012: Bench001
+    3300014: Bench002
+    3300016: Bench003
+    3300018: Bench004
+    3300020: Bench005
+    3300022: Bench006
+    3300024: Bench007
+    3300026: Box001
+    3300028: Box003
+    3300030: Box013
+    3300032: Box014
+    3300034: Box015
+    3300036: Bridge 1
+    3300038: Bridge 2
+    3300040: Centre Back Wall
+    3300042: Centre Front Wall
+    3300044: Cylinder001
+    3300046: Cylinder002
+    3300048: Cylinder003
+    3300050: Cylinder004
+    3300052: Cylinder005
+    3300054: Cylinder006
+    3300056: Cylinder007
+    3300058: Cylinder008
+    3300060: Cylinder009
+    3300062: Cylinder010
+    3300064: Cylinder011
+    3300066: Cylinder012
+    3300068: Cylinder013
+    3300070: Cylinder014
+    3300072: Cylinder015
+    3300074: Cylinder016
+    3300076: Entrance Wall
+    3300078: Entrance Wall 2
+    3300080: Front Area Wall
+    3300082: Front Left Train Tunnel
+    3300084: Front Left Train Tunnel001
+    3300086: Front Right Train Tunnel002
+    3300088: Front Right Train Tunnel003
+    3300090: Jerry
+    3300092: Pole
+    3300094: Pole001
+    3300096: Pole002
+    3300098: Pole003
+    3300100: Pole004
+    3300102: Pole005
+    3300104: Pole006
+    3300106: Pole007
+    3300108: Pole008
+    3300110: Pole009
+    3300112: Pole010
+    3300114: Pole011
+    3300116: Pole012
+    3300118: Pole013
+    3300120: Pole014
+    3300122: Pole015
+    3300124: Pole016
+    3300126: Pole017
+    3300128: Pole018
+    3300130: Pole019
+    3300132: Pole020
+    3300134: Pole021
+    3300136: Pole022
+    3300138: Pole023
+    3300140: Screen 003
+    3300142: Screen 004
+    3300144: Screen 005
+    3300146: Screen 006
+    3300148: Screen 007
+    3300150: Screen 008
+    3300152: Screen 009
+    3300154: Screen 010
+    3300156: Screen 011
+    3300158: Screen 012
+    3300160: Screen 013
+    3300162: Screen 014
+    3300164: Screen 015
+    3300166: Screen 016
+    3300168: Screen 017
+    3300170: Screen 018
+    3300172: Screen 019
+    3300174: Screen 020
+    3300176: Screen 021
+    3300178: Screen 022
+    3300180: Screen 023
+    3300182: Screen 024
+    3300184: Screen 025
+    3300186: Screen 026
+    3300188: Screen 027
+    3300190: Screen 028
+    3300192: Screen 029
+    3300194: Screen 030
+    3300196: Screen 031
+    3300198: Screen 032
+    3300200: Screen 033
+    3300202: Screen 036
+    3300204: Screen 038
+    3300206: Screen 039
+    3300208: Screen 040
+    3300210: Screen 041
+    3300212: Screen 042
+    3300214: Screen 043
+    3300216: Screen 1
+    3300218: Screen 2
+    3300220: Station Floor
+    3300222: Train
+    3300224: Train 2
+    3300226: Train Rail Way Floor
+    3300228: Train Rail Way Floor 2
+    3300230: VendingMachine
+    3300232: VendingMachine003
+    3300234: VendingMachine004
+    3300236: VendingMachine005
+    3300238: VendingMachine006
+    3300240: VendingMachine007
+    3300242: VendingMachine008
+    3300244: VendingMachine2
+    4300000: Station Floor
+    4300002: Train
+    4300004: Bridge 2
+    4300006: Bridge 1
+    4300008: Train 2
+    4300010: Centre Back Wall
+    4300012: Centre Front Wall
+    4300014: VendingMachine
+    4300016: Cylinder001
+    4300018: Cylinder002
+    4300020: Cylinder003
+    4300022: Cylinder004
+    4300024: VendingMachine2
+    4300026: Box003
+    4300028: VendingMachine003
+    4300030: Cylinder005
+    4300032: Cylinder006
+    4300034: Cylinder007
+    4300036: Cylinder008
+    4300038: VendingMachine004
+    4300040: Box013
+    4300042: VendingMachine005
+    4300044: Cylinder009
+    4300046: Cylinder010
+    4300048: Cylinder011
+    4300050: Cylinder012
+    4300052: VendingMachine006
+    4300054: Box014
+    4300056: VendingMachine007
+    4300058: Cylinder013
+    4300060: Cylinder014
+    4300062: Cylinder015
+    4300064: Cylinder016
+    4300066: VendingMachine008
+    4300068: Box015
+    4300070: Jerry
+    4300072: Entrance Wall
+    4300074: Back Right Train Tunnel
+    4300076: Back Left Train Tunnel
+    4300078: Backroom Floor Back
+    4300080: Back Area Wall
+    4300082: Front Area Wall
+    4300084: Backroom Floor Front
+    4300086: Front Left Train Tunnel
+    4300088: Entrance Wall 2
+    4300090: Train Rail Way Floor
+    4300092: Train Rail Way Floor 2
+    4300094: Pole016
+    4300096: Pole017
+    4300098: Pole018
+    4300100: Pole019
+    4300102: Pole020
+    4300104: Pole021
+    4300106: Pole022
+    4300108: Pole023
+    4300110: Screen 033
+    4300112: Screen 036
+    4300114: Screen 038
+    4300116: Screen 039
+    4300118: Screen 040
+    4300120: Screen 041
+    4300122: Screen 042
+    4300124: Screen 043
+    4300126: Screen 032
+    4300128: Screen 031
+    4300130: Screen 030
+    4300132: Screen 029
+    4300134: Screen 028
+    4300136: Screen 027
+    4300138: Screen 026
+    4300140: Screen 025
+    4300142: Screen 024
+    4300144: Screen 023
+    4300146: Screen 022
+    4300148: Screen 021
+    4300150: Screen 020
+    4300152: Screen 019
+    4300154: Screen 018
+    4300156: Screen 017
+    4300158: Screen 016
+    4300160: Screen 015
+    4300162: Screen 014
+    4300164: Screen 013
+    4300166: Screen 012
+    4300168: Screen 011
+    4300170: Screen 010
+    4300172: Screen 009
+    4300174: Screen 008
+    4300176: Screen 007
+    4300178: Screen 006
+    4300180: Screen 005
+    4300182: Screen 004
+    4300184: Screen 003
+    4300186: Screen 2
+    4300188: Screen 1
+    4300190: Pole015
+    4300192: Pole014
+    4300194: Pole013
+    4300196: Pole012
+    4300198: Pole011
+    4300200: Pole010
+    4300202: Pole009
+    4300204: Pole008
+    4300206: Pole007
+    4300208: Pole006
+    4300210: Pole005
+    4300212: Pole004
+    4300214: Pole003
+    4300216: Pole002
+    4300218: Pole001
+    4300220: Pole
+    4300222: Box001
+    4300224: Bench007
+    4300226: Bench006
+    4300228: Bench005
+    4300230: Bench004
+    4300232: Bench003
+    4300234: Bench002
+    4300236: Bench001
+    4300238: Bench
+    4300240: Front Right Train Tunnel002
+    4300242: Front Left Train Tunnel001
+    4300244: Front Right Train Tunnel003
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
